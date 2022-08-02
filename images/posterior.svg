@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="0.18666668in"
+   height="0.18296668in"
+   viewBox="0 0 56.000002 54.890002"
+   version="1.1"
+   id="tooth"
+   sodipodi:docname="posterior.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="21.78125"
+     inkscape:cy="2.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     id="top"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="m 10.51,45.44 c 0,0 -10.01000003,9 -10.01000003,9 0,0 55.00000003,0 55.00000003,0 0,0 -10,-9 -10,-9 0,0 -34.99,0 -34.99,0 z"
+     style="stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     id="Selection #1-6"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="m 10.52,9.45 c 0,0 -10.01000003,-9.00000001 -10.01000003,-9.00000001 0,0 55.00000003,0 55.00000003,0 0,0 -10,9.00000001 -10,9.00000001 0,0 -34.99,0 -34.99,0 z"
+     style="stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     id="Selection"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="m 55.48,0.45999899 c 0,0 0.02,53.98000101 0.02,53.98000101 0,0 -10.01,-9 -10.01,-9 0,0 0.02,-35.99 0.02,-35.99 0,0 9.97,-8.99000101 9.97,-8.99000101 z"
+     style="stroke-linecap:round;stroke-linejoin:bevel;paint-order:normal" />
+  <path
+     id="Selection-3"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="m 0.51999997,0.45999899 c 0,0 -0.02,53.98000101 -0.02,53.98000101 0,0 10.01000003,-9 10.01000003,-9 0,0 -0.02,-35.99 -0.02,-35.99 0,0 -9.97000003,-8.99000101 -9.97000003,-8.99000101 z"
+     style="stroke-linecap:round;stroke-linejoin:bevel" />
+  <path
+     id="Selection-5"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="M 45.51,9.449999 45.49,45.44 H 10.51 L 10.49,9.449999 Z"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     sodipodi:nodetypes="ccccc" />
+</svg>

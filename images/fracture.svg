@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="fracture.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="210mm"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="259.80579"
+     inkscape:cy="405.90523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g59775" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g59775"
+       transform="matrix(0.6973544,0,0,0.6973544,4.3040337,8.2473507)"
+       style="stroke-width:6.56659;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         id="Unnamed copy"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1"
+         d="m 180.7115,57.242435 -22.34,163.000005 m -85.88765,-109.21 151.02001,0.04"
+         style="stroke-width:7.16995548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="Unnamed copy #1"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1"
+         d="m 65.290378,166.33897 c 0,0 151.020012,0.04 151.020012,0.04"
+         style="stroke-width:7.16995548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Unnamed"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1"
+         d="m 127.25212,57.242435 -11.13974,77.830165 -13.7079,85.16984"
+         style="stroke-width:7.16995548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>
