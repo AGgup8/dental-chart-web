@@ -1,55 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="210mm"
-   height="210mm"
-   viewBox="0 0 210 210"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="bridge-abutment.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     height="210mm"
-     inkscape:zoom="0.75633418"
-     inkscape:cx="446.23132"
-     inkscape:cy="314.67572"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.0346px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76422"
-       x="56.439884"
-       y="130.87007"
-       id="text2036"
-       transform="scale(1.0032615,0.99674911)"><tspan
-         id="tspan2034"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.03459765px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.76422"
-         x="56.439884"
-         y="130.87007"
-         sodipodi:role="line">BA</tspan></text>
+<svg width="210mm" height="210mm" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+  <g aria-label="BA" style="font-weight:700;font-size:70.0346px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';stroke-width:1.76422">
+    <path d="M62.38552994 130.4446258H85.4318c5.9020931 0 9.8368225-1.11690722 12.92839488-3.69976325 3.0915744-2.58285603 5.0589401-6.84107787 5.0589401-10.95968507 0-5.02610738-2.6699999-9.00509993-8.50182757-12.35583154 5.05893708-3.21111697 7.02630078-6.14300763 7.02630078-10.4710368 0-3.56015358-1.75657444-7.19011349-4.63735858-9.7031632-3.02130996-2.58285603-6.60472327-3.69976623-12.08523886-3.69976623h-22.8354808Zm10.53945268-42.16338144h11.45287211c4.91841125 0 7.4478793 1.9545941 7.4478793 5.72416867 0 3.83938088-2.52946805 5.793972-7.4478793 5.793972h-11.4528721zm0 20.2440113h12.5770798c5.1292005 0 7.79919538 2.23381444 7.79919538 6.63165092 0 4.32803415-2.66999488 6.56185855-7.79919538 6.56185855h-12.5770798Z"/>
+    <path d="m140.3773423 120.18301397 3.37262406 10.26161183h10.82050636l-17.7062813-50.8892461h-11.66365735l-18.19812022 50.8892461h10.75023792l3.44288245-10.26161183zm-2.88078513-8.72587064H124.1465878l6.67498971-19.89497269z"/>
   </g>
 </svg>

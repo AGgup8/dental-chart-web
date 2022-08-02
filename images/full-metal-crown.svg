@@ -1,55 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="210mm"
-   height="210mm"
-   viewBox="0 0 210 210"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="full-metal-crown.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     height="210mm"
-     inkscape:zoom="0.75633418"
-     inkscape:cx="446.23132"
-     inkscape:cy="315.99788"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.4504px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.53627"
-       x="48.934551"
-       y="117.47675"
-       id="text23482"
-       transform="scale(0.90579013,1.1040085)"><tspan
-         sodipodi:role="line"
-         id="tspan23480"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.45039965px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.53627"
-         x="48.934551"
-         y="117.47675">FMC</tspan></text>
+<svg width="210mm" height="210mm" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+  <g aria-label="FMC" style="font-weight:700;font-size:61.4504px;line-height:1.25;-inkscape-font-specification:'sans-serif, Bold';stroke-width:1.53627">
+    <path d="M49.43395467 80.23842256h28.23825821v9.63962593H59.8976015v9.20898864h16.71465758v9.63962593H59.8976015v20.9686675H49.43395467Z"/>
+    <path d="M87.45640116 80.23842256h13.31737033l9.24062635 26.4675638 9.29497375-26.4675638h13.29019662v49.456908h-9.89290393V93.52189256l-9.34933928 26.66632399h-6.63150693L97.3764788 93.52189257v36.17343798h-9.92007764Z"/>
+    <path d="M175.02490291 126.979017q-2.88090174 1.82192315-6.0064121 2.74944485-3.1255013.9275217-6.522794.9275217-10.1375035 0-16.06237638-6.89018329-5.92486382-6.92330354-5.92486382-18.74923283 0-11.85905949 5.92486382-18.74923836 5.92487288-6.92330465 16.06237638-6.92330465 3.3972927 0 6.522794.92752391 3.12551036.92752391 6.0064121 2.74944595v10.2358921q-2.9080845-2.4181882-5.73462977-3.54446787-2.82653622-1.12627967-5.95204658-1.12627967-5.59872503 0-8.80576556 4.37261445-3.20704054 4.37261335-3.20704054 12.05781414 0 7.65207059 3.20704054 12.02468394 3.20704053 4.37261334 8.80576556 4.37261334 3.12551036 0 5.95204658-1.12627635 2.82654527-1.12627635 5.73462977-3.54446345z"/>
   </g>
 </svg>

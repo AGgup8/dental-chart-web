@@ -1,55 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="210mm"
-   height="210mm"
-   viewBox="0 0 210 210"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="crown.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     height="210mm"
-     inkscape:zoom="0.75633418"
-     inkscape:cx="444.90915"
-     inkscape:cy="315.99788"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.0346px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76422"
-       x="53.918652"
-       y="130.48488"
-       id="text2036-0"
-       transform="scale(1.0032615,0.99674911)"><tspan
-         id="tspan2034-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.03459791px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.76422"
-         x="53.918652"
-         y="130.48488"
-         sodipodi:role="line">CR</tspan></text>
+<svg width="210mm" height="210mm" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+  <g aria-label="CR" style="font-weight:700;font-size:70.0346px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';stroke-width:1.76422">
+    <path d="M102.01388666 96.41374926c-.35131208-4.3978365-1.26473151-7.1901135-3.44288948-10.05219783-3.9347294-5.16571207-10.258401-8.0277964-17.91706955-8.0277964-14.47418108 0-23.46784756 10.2616188-23.46784756 26.73605056 0 16.40462643 8.92340306 26.59643592 23.18679589 26.59643592 12.78786904 0 21.21943018-7.32972416 21.85179594-18.98748247h-10.258398c-.70263018 6.49204624-4.77788541 10.1918095-11.31234627 10.1918095-8.15050947 0-12.92839489-6.56184859-12.92839489-17.6611483 0-11.23891337 4.98867367-17.94037859 13.27970998-17.94037859 6.11288235 0 9.55577083 2.93189066 10.96103118 9.1447076z"/>
+    <path d="M120.98477908 109.88648602h12.08523787c4.56709716 0 6.53446286 1.81498046 6.53446286 6.00338999v2.09420975c-.0702283 1.32633417-.0702283 2.58285603-.0702283 3.35073161 0 4.81668043.28105367 6.28262925 1.54578519 8.72587064h11.31234527v-1.88479276c-1.6160436-.90749023-2.24840935-1.95458514-2.24840935-4.18840954-.28105368-15.00848992-.56210735-15.70656315-7.09657022-18.49883618 5.76157027-2.2338244 8.6423554-6.35243059 8.6423554-12.56524654 0-4.04880186-1.40526837-7.7485691-3.864473-10.2616178-2.31867778-2.37343606-5.550775-3.49034626-9.90707688-3.49034626h-27.47284139V130.060688h10.53945268zm0-8.72587063V87.89730458h12.71760362c3.02131198 0 4.21578509.2792273 5.550775 1.32633118 1.26474155 1.04710388 1.8971073 2.792277 1.8971073 5.16571207 0 2.44324238-.63236575 4.39783648-1.8971073 5.44494335-1.1944731.97729257-2.52946302 1.3263242-5.550775 1.3263242z"/>
   </g>
 </svg>
