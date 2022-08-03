@@ -365,7 +365,121 @@ button {
     }
 }
 
-// end cavity drop
+@media only screen and (max-width: 991px) {
+    .cavity-dropdown-list[data-tooth="18"], .cavity-dropdown-list[data-tooth="48"] {
+        left: -11px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="17"], .cavity-dropdown-list[data-tooth="47"] {
+        left: -59px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="16"], .cavity-dropdown-list[data-tooth="46"] {
+        left: -107px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="28"], .cavity-dropdown-list[data-tooth="38"] {
+        left: -289px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="27"], .cavity-dropdown-list[data-tooth="37"] {
+        left: -241px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="26"], .cavity-dropdown-list[data-tooth="36"] {
+        left: -193px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1099px) {
+    .cavity-dropdown-list[data-tooth="18"], .cavity-dropdown-list[data-tooth="48"] {
+        left: -11px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="17"], .cavity-dropdown-list[data-tooth="47"] {
+        left: -70px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="16"], .cavity-dropdown-list[data-tooth="46"] {
+        left: -129px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="28"], .cavity-dropdown-list[data-tooth="38"] {
+        left: -279px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="27"], .cavity-dropdown-list[data-tooth="37"] {
+        left: -220px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="26"], .cavity-dropdown-list[data-tooth="36"] {
+        left: -161px;
+    }
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1200px) {
+    .cavity-dropdown-list[data-tooth="18"], .cavity-dropdown-list[data-tooth="48"] {
+        left: -71px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="17"], .cavity-dropdown-list[data-tooth="47"] {
+        left: -130px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="16"], .cavity-dropdown-list[data-tooth="46"] {
+        left: -189px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="28"], .cavity-dropdown-list[data-tooth="38"] {
+        left: -219px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="27"], .cavity-dropdown-list[data-tooth="37"] {
+        left: -160px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="26"], .cavity-dropdown-list[data-tooth="36"] {
+        left: -101px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {
+    .cavity-dropdown-list[data-tooth="18"], .cavity-dropdown-list[data-tooth="48"] {
+        left: -11px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="17"], .cavity-dropdown-list[data-tooth="47"] {
+        left: -86px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="16"], .cavity-dropdown-list[data-tooth="46"] {
+        left: -161px;
+    }
+
+    .cavity-dropdown-list[data-tooth="28"], .cavity-dropdown-list[data-tooth="38"] {
+        left: -265px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="27"], .cavity-dropdown-list[data-tooth="37"] {
+        left: -190px;
+    }
+    
+    .cavity-dropdown-list[data-tooth="26"], .cavity-dropdown-list[data-tooth="36"] {
+        left: -115px;
+    }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1450px) {
+    .cavity-dropdown-list[data-tooth="18"], .cavity-dropdown-list[data-tooth="48"] {
+        left: -75px;
+    }
+
+    .cavity-dropdown-list[data-tooth="28"], .cavity-dropdown-list[data-tooth="38"] {
+        left: -226px;
+    }
+}
+
+// end cavity dropdown
 
 // extra
 
