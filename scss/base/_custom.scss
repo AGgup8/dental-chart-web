@@ -217,13 +217,11 @@ button {
 }
 
 .symbol-container {
+    display: flex;
+    flex-direction: column;
+
     position: relative;
     height: var(--tooth-width);
-}
-
-#upper-right .tooth,
-#upper-left .tooth {
-    align-self: flex-end;
 }
 
 .bottom,
@@ -251,6 +249,7 @@ button {
     display: flex;
 
     position: absolute;
+    top: 0;
     z-index: 2;
 
     margin: calc(var(--tooth-width) / 16);
@@ -261,11 +260,6 @@ button {
         border-width: 2px;
         margin: calc(var(--tooth-width) / 16 - 1px);
     }
-}
-
-#upper-right .dropdown,
-#upper-left .dropdown {
-    top: 54px;
 }
 
 #upper-right .dropdown,
