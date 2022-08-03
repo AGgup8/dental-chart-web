@@ -126,7 +126,7 @@ button {
 }
 
 .bring-to-front {
-    z-index: 10;
+    z-index: 3;
 }
 
 .highlight {
@@ -576,7 +576,7 @@ button {
     /* Hidden by default */
     position: fixed;
     /* Stay in place */
-    z-index: 3;
+    z-index: 4;
     /* Sit on top */
     left: 0;
     top: 0;
