@@ -262,12 +262,31 @@ button {
     }
 }
 
-#upper-right .dropdown,
-#lower-right .dropdown {
-    align-self: flex-start;
-
-    .dropdown-arrow {
+#upper-right {
+    .dropdown {
         align-self: flex-start;
+
+        .dropdown-arrow {
+            align-self: flex-start;
+        }
+    }
+
+    .tooth {
+        justify-content: end;
+    }
+}
+
+#upper-left {
+    .dropdown {
+        align-self: flex-start;
+
+        .dropdown-arrow {
+            align-self: flex-start;
+        }
+    }
+
+    .tooth {
+        justify-content: end;
     }
 }
 
