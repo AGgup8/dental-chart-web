@@ -545,13 +545,14 @@ button {
   border-radius: var(--border-radius);
   border: 1px solid var(--primary-color);
 
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 0.65rem;
   line-height: 1.5;
 
   resize: none;
 
   @media only screen and (min-width: 768px) {
-    font-size: 0.7rem;
+    font-size: 0.75rem;
   }
 }
 
@@ -565,13 +566,14 @@ button {
   border-radius: var(--border-radius);
   border: 1px solid var(--primary-color);
 
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 0.65rem;
   line-height: 1.5;
 
   resize: none;
 
   @media only screen and (min-width: 768px) {
-    font-size: 0.7rem;
+    font-size: 0.75rem;
   }
 }
 
