@@ -38,17 +38,20 @@
      style="font-weight:700;font-size:61.836px;line-height:1.25;-inkscape-font-specification:'sans-serif, Bold';stroke-width:1.54592"
      id="g8"
      transform="matrix(0.99369504,0,0,0.99369504,-1.9506166,0.66202055)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.88px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.69705"
-       x="42.749535"
-       y="133.14807"
+    <g
+       aria-label="PJC"
+       transform="scale(1.0327507,0.9682879)"
        id="text527"
-       transform="scale(1.0327507,0.9682879)"><tspan
-         sodipodi:role="line"
-         id="tspan525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.88px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.69705"
-         x="42.749535"
-         y="133.14807">PJC</tspan></text>
+       style="font-size:67.88px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';stroke-width:1.69705">
+      <path
+         d="m 57.896585,91.883132 v 14.517308 h 4.010488 q 4.805957,0 6.728339,-1.62409 1.955528,-1.62408 1.955528,-5.634566 0,-4.010489 -1.955528,-5.63457 -1.922382,-1.624082 -6.728339,-1.624082 z m -9.777637,-8.219844 h 13.423535 q 10.24166,0 14.716171,3.645898 4.507656,3.645899 4.507656,11.832598 0,8.186696 -4.507656,11.832596 -4.474511,3.6459 -14.716171,3.6459 h -3.645898 v 18.52779 h -9.777637 z"
+         id="path567" />
+      <path
+         d="m 87.229495,130.69538 v -11.33543 q 2.85043,2.91672 6.065449,4.44136 3.248164,1.52465 6.529472,1.52465 3.844764,0 5.634574,-1.92238 1.7898,-1.92238 1.7898,-6.13174 V 92.280866 H 95.283616 v -8.617578 h 21.742814 v 33.608552 q 0,9.04846 -3.81162,12.95951 -3.77848,3.87791 -12.49549,3.87791 -3.148732,0 -6.595763,-0.86176 -3.413886,-0.86175 -6.894062,-2.55212 z"
+         id="path569" />
+      <path
+         d="m 160.31318,131.72286 q -2.32011,1.1932 -4.87224,1.7898 -2.55213,0.5966 -5.36942,0.5966 -10.00964,0 -15.27962,-6.59576 -5.26998,-6.59576 -5.26998,-19.0581 0,-12.495491 5.26998,-19.091253 5.26998,-6.595761 15.27962,-6.595761 2.81729,0 5.40256,0.596601 2.58528,0.596602 4.8391,1.789805 v 10.871406 q -2.51898,-2.320117 -4.90539,-3.380742 -2.35326,-1.09377 -4.87224,-1.09377 -5.36942,0 -8.12041,4.275645 -2.71785,4.242499 -2.71785,12.628069 0,8.35242 2.71785,12.62806 2.75099,4.2425 8.12041,4.2425 2.51898,0 4.87224,-1.06062 2.38641,-1.09377 4.90539,-3.41389 z"
+         id="path571" />
+    </g>
   </g>
 </svg>
