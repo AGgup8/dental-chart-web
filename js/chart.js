@@ -43,6 +43,7 @@ function Chart() {
             // tooth - number - the string used to find the tooth to update
             // code - string - the string used to find the surface to update
             // newData - string - new data to add to the node
+            
 
             const toothData = chart[tooth.toString()];
 
@@ -414,7 +415,7 @@ function ChartView(model) {
 
     function render() {
         // clear all existing classes and charting images
-        $("#tooth-chart path").removeClass("amalgam-fill caries-fill composite-fill gic-fill temporary-fill");
+        $("#tooth-chart path").removeClass("amalgam-fill caries-fill composite-fill gic-fill temporary-fill staining-fill");
         $(".tooth-center").remove();
 
         // get data from model
@@ -446,6 +447,8 @@ function ChartView(model) {
                             surface.addClass("gic-fill");
                         } else if (modelData[toothNumber][code] == "5") {
                             surface.addClass("temporary-fill");
+                        } else if (modelData[toothNumber][code] == "6") {
+                            surface.addClass("staining-fill");
                         }
                     } else if (code == "whole") {
                         // render wholetooth codes
