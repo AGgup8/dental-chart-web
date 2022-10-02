@@ -334,7 +334,7 @@ button {
     padding: 0.4rem;
     border-radius: var(--border-radius);
 
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     line-height: 1.15;
 
     &:hover {
@@ -342,6 +342,10 @@ button {
 
       color: var(--primary-color);
       cursor: pointer;
+    }
+
+    @media only screen and (min-width: 992px) {
+      font-size: 0.8rem;
     }
   }
 }
@@ -386,6 +390,10 @@ button {
 
       color: var(--primary-color);
       cursor: pointer;
+    }
+
+    @media only screen and (min-width: 992px) {
+      font-size: 0.8rem;
     }
   }
 }
