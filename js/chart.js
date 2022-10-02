@@ -190,7 +190,8 @@ function ChartView(model) {
       createListItem("Porcelain Veneer", "PV"),
       createListItem("Recently Extracted", "RE"),
       createListItem("Rotated Mesially", "RM"),
-      createListItem("Rotated Distally", "RD")
+      createListItem("Rotated Distally", "RD"),
+      createListItem("Space Closed", "SC")
     );
     $(".dropdown").append(dropDownList);
   }
@@ -617,6 +618,14 @@ function ChartView(model) {
                   "images/full-metal-crown.svg",
                   "tooth-center",
                   "full metal crown image"
+                );
+                $(`.symbol-container[data-tooth='${toothNumber}']`).append(img);
+                break;
+              case "SC":
+                img = createImage(
+                  "images/space-closed.svg",
+                  "tooth-center",
+                  "space closed image"
                 );
                 $(`.symbol-container[data-tooth='${toothNumber}']`).append(img);
                 break;
