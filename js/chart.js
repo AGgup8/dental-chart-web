@@ -681,12 +681,27 @@ function ChartView(model) {
                 }
                 break;
               case "RM":
-                if (
-                  (toothNumber > 10 && toothNumber < 19) ||
-                  (toothNumber > 40 && toothNumber < 49)
-                ) {
+                if (toothNumber > 10 && toothNumber < 19) {
                   img = createImage(
-                    "images/rotated-right-arrow.svg",
+                    "images/rotated-right-arrow-up.svg",
+                    "tooth-center",
+                    "tooth rotated mesially image"
+                  );
+                  $(`.symbol-container[data-tooth='${toothNumber}']`).append(
+                    img
+                  );
+                } else if (toothNumber > 40 && toothNumber < 49) {
+                  img = createImage(
+                    "images/rotated-right-arrow-down.svg",
+                    "tooth-center",
+                    "tooth rotated mesially image"
+                  );
+                  $(`.symbol-container[data-tooth='${toothNumber}']`).append(
+                    img
+                  );
+                } else if (toothNumber > 20 && toothNumber < 29) {
+                  img = createImage(
+                    "images/rotated-left-arrow-up.svg",
                     "tooth-center",
                     "tooth rotated mesially image"
                   );
@@ -695,7 +710,7 @@ function ChartView(model) {
                   );
                 } else {
                   img = createImage(
-                    "images/rotated-left-arrow.svg",
+                    "images/rotated-left-arrow-down.svg",
                     "tooth-center",
                     "tooth rotated mesially image"
                   );
@@ -705,21 +720,36 @@ function ChartView(model) {
                 }
                 break;
               case "RD":
-                if (
-                  (toothNumber > 10 && toothNumber < 19) ||
-                  (toothNumber > 40 && toothNumber < 49)
-                ) {
+                if (toothNumber > 10 && toothNumber < 19) {
                   img = createImage(
-                    "images/rotated-left-arrow.svg",
+                    "images/rotated-left-arrow-up.svg",
                     "tooth-center",
                     "tooth rotated distally image"
                   );
                   $(`.symbol-container[data-tooth='${toothNumber}']`).append(
                     img
                   );
+                } else if (toothNumber > 40 && toothNumber < 49) {
+                  img = createImage(
+                    "images/rotated-left-arrow-down.svg",
+                    "tooth-center",
+                    "tooth rotated mesially image"
+                  );
+                  $(`.symbol-container[data-tooth='${toothNumber}']`).append(
+                    img
+                  );
+                } else if (toothNumber > 20 && toothNumber < 29) {
+                  img = createImage(
+                    "images/rotated-right-arrow-up.svg",
+                    "tooth-center",
+                    "tooth rotated mesially image"
+                  );
+                  $(`.symbol-container[data-tooth='${toothNumber}']`).append(
+                    img
+                  );
                 } else {
                   img = createImage(
-                    "images/rotated-right-arrow.svg",
+                    "images/rotated-right-arrow-down.svg",
                     "tooth-center",
                     "tooth rotated distally image"
                   );
