@@ -435,6 +435,13 @@ function ChartView(model) {
     });
   }
 
+  $(window).on("resize", function () {
+    const textboxes = document.querySelectorAll(".extra, .extra-bottom");
+    for (var i = 0; i < textboxes.length; i++) {
+      textboxes[i].style.height = textboxes[i].scrollHeight + "px";
+    }
+  });
+
   function subscribeToEvents() {
     $.subscribe("updated", function (e) {
       render();
