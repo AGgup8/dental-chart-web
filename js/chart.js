@@ -189,6 +189,7 @@ function ChartView(model) {
       createListItem("PRR", "PRR"),
       createListItem("Porcelain Veneer", "PV"),
       createListItem("Recently Extracted", "RE"),
+      createListItem("Retained C", "RC"),
       createListItem("Rotated Mesially", "RM"),
       createListItem("Rotated Distally", "RD"),
       createListItem("Space Closed", "SC")
@@ -626,6 +627,14 @@ function ChartView(model) {
                   "images/space-closed.svg",
                   "tooth-center",
                   "space closed image"
+                );
+                $(`.symbol-container[data-tooth='${toothNumber}']`).append(img);
+                break;
+              case "RC":
+                img = createImage(
+                  "images/retained-c.svg",
+                  "tooth-center",
+                  "retained c image"
                 );
                 $(`.symbol-container[data-tooth='${toothNumber}']`).append(img);
                 break;

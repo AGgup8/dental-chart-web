@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="0.18666668in"
+   height="0.18296668in"
+   viewBox="0 0 56.000002 54.890002"
+   version="1.1"
+   id="tooth"
+   sodipodi:docname="retained-c.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     aria-label="C"
+     transform="scale(0.97673755,1.0238165)"
+     id="text3914"
+     style="font-weight:bold;font-size:19.8353px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';stroke-width:0.0449181;stroke-linecap:round;stroke-linejoin:round">
+    <path
+       d="M 15.778336,8.5001571 C 15.67916,7.2505332 15.421301,6.4571212 14.806406,5.6438739 13.695629,4.1760616 11.910452,3.3628143 9.7484047,3.3628143 c -4.0860719,0 -6.6249903,2.9157892 -6.6249903,7.5969197 0,4.661296 2.5190831,7.55725 6.5456491,7.55725 3.6100245,0 5.9902605,-2.082707 6.1687785,-5.395202 h -2.895954 c -0.198353,1.844683 -1.3488,2.895954 -3.1934833,2.895954 -2.3008948,0 -3.6496953,-1.864518 -3.6496953,-5.018331 0,-3.1934834 1.4083064,-5.0976722 3.7488718,-5.0976722 1.7256708,0 2.6976008,0.8330826 3.0943068,2.5984243 z"
+       id="path4020" />
+  </g>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="8.9375"
+     inkscape:cy="5.578125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="tooth"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.3952;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect190"
+     width="16.988577"
+     height="21.172396"
+     x="0.76307213"
+     y="0.70568788" />
+</svg>
